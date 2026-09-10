@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "PromptCrates Frameworks"
+message: "Cite PromptCrates when you use these editorial prompt frameworks."
+type: software
+authors:
+  - name: "PromptCrates"
+    website: "https://promptcrates.com/"
+repository-code: "https://github.com/promptcrates/prompt-frameworks"
+url: "https://promptcrates.com/"
+license: "CC-BY-4.0"
+keywords:
+  - prompt-engineering
+  - midjourney
+  - flux
+  - suno
+  - skill-prompts
+preferred-citation:
+  type: generic
+  title: "PromptCrates — editorial AI prompt library"
+  authors:
+    - name: "PromptCrates"
+  url: "https://promptcrates.com/"
